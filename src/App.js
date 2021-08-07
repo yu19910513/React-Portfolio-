@@ -1,8 +1,8 @@
 import React from "react";
-import OmdbContainer from "./components/OmdbContainer";
+import Main from "./components/main";
 
 function App() {
-  return <OmdbContainer />;
+  return <Main />;
 }
 
 export default App;
