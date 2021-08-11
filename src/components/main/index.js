@@ -22,6 +22,7 @@ export default function Main() {
     return <Home />;
   };
 
+
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
