@@ -1,35 +1,46 @@
-# Responsive Porfolio
-- - - -
-## Purpose
+# React-built Portfolio
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Description
+This porfolio is built by the modern approach - react.js instead of traditional HTML and JS. By building user interfaces and UI components, the developer is able to work each section individually without interfering other sections. I attempted to repulciate my previous HTML profolilo; each section was divided into several UI components and connected by react.js. 
 
-The updated porfolio is summarize the experiences and skills a develpoer had grown.
- 
-## Languages
+## Table of Contents
+- [Installation](#installation)
+- [Tests](#tests)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+## Installation
+For future developer,
+1. npm i
+2. run react.js locally via npm start
 
-Here is a list of the languages:
+### Tests
+n/a
 
-* HTML
-* CSS
-* Javascript
-* bootstrap
-
-## APIs
-
-Here is a list of the APIs:
-
-* jQuery
-* Moment.js
-* OpenWeather
-* Wikipedia
-* Pixabay
-
-## Creidts
-* Rex Yu
+## Usage
+n/a
 
 
-## Deployed Link
-https://yu19910513.github.io/Server-implemented-Portfolio/
+### click here to check out deployed app (https://yu19910513.github.io/rex_react_portfolio/#home)
 
+## Contributing
+you may fork this application by the following steps
+ 1. **Fork** the repo on GitHub
+ 2. **Clone** the project to your own machine
+ 3. **Commit** changes to your own branch
+ 4. **Push** your work back up to your fork
+ 5. **Other Notes**
+
+## Credits
+1. rex 2. google 3. https://magic.reactjs.net/htmltojsx.htm
+
+## License
+* Licensed under the MIT license (MIT) License. Copyright © 2021
+---
+## Contacts
+GitHub: [yu19910513](https://github.com/yu19910513/)
+
+Email: [rexyu@uw.edu](mailto:rexyu@uw.edu)
 
 ## MIT License
 
@@ -40,5 +51,3 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-©2021 Rex Yu
