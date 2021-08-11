@@ -1,7 +1,7 @@
 # React-built Portfolio
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-This porfolio is built by the modern approach - react.js instead of traditional HTML and JS. By building user interfaces and UI components, the developer is able to work each section individually without interfering other sections. I attempted to repulciate my previous HTML profolilo; each section was divided into several UI components and connected by react.js. 
+This porfolio is built by the modern approach - react.js instead of traditional HTML and JS. By building user interfaces and UI components, the developer is able to work each section individually without interfering other sections. I attempted to replicate my previous HTML profolilo; each section was divided into several UI components and connected by react.js. 
 
 ## Table of Contents
 - [Installation](#installation)
