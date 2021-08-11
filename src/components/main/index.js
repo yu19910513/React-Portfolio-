@@ -4,6 +4,7 @@ import Home from '../nav/nav_home';
 import Profile from '../nav/nav_profile';
 import Contact_form from '../nav/nav_contact_form';
 import Info from './info'
+import Hamburger from '../hamburger_menu';
 
 
 export default function Main() {
@@ -28,7 +29,8 @@ export default function Main() {
   return (
 
     <div>
-        <Info />
+      <Hamburger />
+      <Info />
       <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
     </div>
