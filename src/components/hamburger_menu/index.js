@@ -1,5 +1,18 @@
 import React from 'react';
+import { useState, useEffect } from 'react'
+
 export default function Hamburger(){
+  const [date, setDate] = useState(new Date());
+  useEffect(() => {
+   var timerID = setInterval( () => tick(), 1000 );
+   return function cleanup() {
+       clearInterval(timerID);
+     };
+  });
+
+    function tick() {
+     setDate(new Date());
+    }
       return (
 
         <div className="pos-f-t">
@@ -63,7 +76,7 @@ export default function Hamburger(){
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
               <span className="navbar-toggler-icon" />
             </button>
-            <div className="text-right text-white bg-dark timer" />
+            <div className="text-right text-white bg-dark timer" >{date.toLocaleTimeString()}</div>
           </nav>
         </div>
       );
