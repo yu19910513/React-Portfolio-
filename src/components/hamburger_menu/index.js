@@ -4,15 +4,10 @@ import { useState, useEffect } from 'react'
 export default function Hamburger(){
   const [date, setDate] = useState(new Date());
   useEffect(() => {
-   var timerID = setInterval( () => tick(), 1000 );
-   return function cleanup() {
-       clearInterval(timerID);
-     };
+   var time = setInterval( () => setDate(new Date()), 1000 );
   });
 
-    function tick() {
-     setDate(new Date());
-    }
+
       return (
 
         <div className="pos-f-t">
