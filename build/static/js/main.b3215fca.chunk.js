@@ -1,2 +1,0 @@
-(this.webpackJsonprex_react_portfolio=this.webpackJsonprex_react_portfolio||[]).push([[0],{14:function(t,e,n){"use strict";n.r(e);n(0);var o=n(4),r=n.n(o),c=n(5),i=n.n(c),s=n(1);var a=function(){return Object(s.jsx)(i.a,{})};n(11).config(),r.a.render(Object(s.jsx)(a,{}),document.getElementById("root"))},5:function(t,e){}},[[14,1,2]]]);
-//# sourceMappingURL=main.b3215fca.chunk.js.map

@@ -1,17 +1,28 @@
 {
   "files": {
-    "main.js": "/rex_react_portfolio/static/js/main.b3215fca.chunk.js",
-    "main.js.map": "/rex_react_portfolio/static/js/main.b3215fca.chunk.js.map",
+    "main.js": "/rex_react_portfolio/static/js/main.eaaadb96.chunk.js",
+    "main.js.map": "/rex_react_portfolio/static/js/main.eaaadb96.chunk.js.map",
     "runtime-main.js": "/rex_react_portfolio/static/js/runtime-main.f7adc083.js",
     "runtime-main.js.map": "/rex_react_portfolio/static/js/runtime-main.f7adc083.js.map",
-    "static/js/2.6711af9e.chunk.js": "/rex_react_portfolio/static/js/2.6711af9e.chunk.js",
-    "static/js/2.6711af9e.chunk.js.map": "/rex_react_portfolio/static/js/2.6711af9e.chunk.js.map",
+    "static/css/2.818011ed.chunk.css": "/rex_react_portfolio/static/css/2.818011ed.chunk.css",
+    "static/js/2.a5b16ec7.chunk.js": "/rex_react_portfolio/static/js/2.a5b16ec7.chunk.js",
+    "static/js/2.a5b16ec7.chunk.js.map": "/rex_react_portfolio/static/js/2.a5b16ec7.chunk.js.map",
     "index.html": "/rex_react_portfolio/index.html",
-    "static/js/2.6711af9e.chunk.js.LICENSE.txt": "/rex_react_portfolio/static/js/2.6711af9e.chunk.js.LICENSE.txt"
+    "static/css/2.818011ed.chunk.css.map": "/rex_react_portfolio/static/css/2.818011ed.chunk.css.map",
+    "static/js/2.a5b16ec7.chunk.js.LICENSE.txt": "/rex_react_portfolio/static/js/2.a5b16ec7.chunk.js.LICENSE.txt",
+    "static/media/all_art.99e36687.png": "/rex_react_portfolio/static/media/all_art.99e36687.png",
+    "static/media/daily_work.10c436da.gif": "/rex_react_portfolio/static/media/daily_work.10c436da.gif",
+    "static/media/hike.da6747e5.png": "/rex_react_portfolio/static/media/hike.da6747e5.png",
+    "static/media/kid.6c9ec239.gif": "/rex_react_portfolio/static/media/kid.6c9ec239.gif",
+    "static/media/quiz.cada15ea.gif": "/rex_react_portfolio/static/media/quiz.cada15ea.gif",
+    "static/media/rex.a48a71f4.jpeg": "/rex_react_portfolio/static/media/rex.a48a71f4.jpeg",
+    "static/media/tech_blog.6769ac95.gif": "/rex_react_portfolio/static/media/tech_blog.6769ac95.gif",
+    "static/media/weather.66487ddb.gif": "/rex_react_portfolio/static/media/weather.66487ddb.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.f7adc083.js",
-    "static/js/2.6711af9e.chunk.js",
-    "static/js/main.b3215fca.chunk.js"
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.a5b16ec7.chunk.js",
+    "static/js/main.eaaadb96.chunk.js"
   ]
 }
